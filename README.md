@@ -1,4 +1,4 @@
-# ASL-Gesture-App-Hack
+# MudraAI
 
 ## Overview
 This project aims to **bridge communication between the Deaf/Hard-of-Hearing and hearing communities** by translating **American Sign Language (ASL)** gestures into **spoken English** using AI-driven language and speech models.
