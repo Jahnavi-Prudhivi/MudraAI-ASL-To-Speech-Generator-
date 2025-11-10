@@ -216,7 +216,7 @@ A real-time **ASL-to-Speech Translator** that empowers inclusive communication �
 
 * **Jahnavi Prudhivi** – Computer Vision & Integration
 * **Vivek Reddy Kasireddy** – API Integration & Voice Output
-* **Aishwarya Silam** – UI/UX & System Architecture
+* **Aishwarya Silam** – Computer Vision & System Architecture
 
 ---
 
