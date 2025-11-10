@@ -181,17 +181,6 @@ python3 src/main.py
    ```
 4. **Create a Pull Request** on GitHub to merge your changes into `main`.
 
----
-
-## 💡 Suggested Roles (Hackathon)
-
-| Role               | Team Member | Focus Area                                |
-| ------------------ | ----------- | ----------------------------------------- |
-| ML/Computer Vision | Vivek       | Gesture detection & Mediapipe integration |
-| AI Integration     | Teammate 2  | Gemini API and NLP flow                   |
-| Frontend/Audio     | Teammate 3  | Streamlit UI + ElevenLabs output          |
-
----
 
 ## Vision
 
