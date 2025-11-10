@@ -1,0 +1,8 @@
+mediapipe
+opencv-python
+tensorflow
+requests
+streamlit
+playsound
+python-dotenv
+scikit-learn
