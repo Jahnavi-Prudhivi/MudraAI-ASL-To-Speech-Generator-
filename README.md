@@ -25,34 +25,6 @@ https://drive.google.com/file/d/1z5NFGEtjW_7V4KNjXR1rBofghgYUgjty/view?usp=shari
 | **User Interface** | Displays live video, detected sign, and translated output | Streamlit (or Flask) |
 | **Optional Deployment** | Portable device version | Raspberry Pi 5 or 4 with Pi Camera |
 
----
-
-## Project Structure
-
-
-ASL-Gesture-Application/
-│
-├── src/
-│   ├── gesture_recognition.py     # Hand tracking + gesture classification
-│   ├── gemini_refinement.py       # Gemini API text refinement
-│   ├── tts_elevenlabs.py          # Text-to-speech output
-│   ├── main.py                    # Main entrypoint (combines all modules)
-│
-├── models/
-│   ├── asl_model.tflite           # Pretrained ASL gesture model
-│
-├── assets/
-│   ├── demo_video.mp4             # Optional demo recording
-│
-├── requirements.txt
-├── .env.example                   # Example API key file
-├── README.md
-└── LICENSE
-
-
-
----
-
 ## Setup Instructions
 
 ### 1️ Clone the Repository
